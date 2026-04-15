@@ -1,0 +1,18 @@
+{
+  "name": "Monocraft Font Theme",
+  "description": "Replaces Discord's default font with Monocraft.",
+  "authors": [
+    {
+      "name": "system32crowdstrikewin11",
+      "id": "1234567890"
+    }
+  ],
+  "spec": 3,
+  "fonts": {
+    "ggsans-Normal": "https://github.com/system32crowdstrikewin11/Font-for-kettu/releases/download/Mc/Monocraft.ttf",
+    "ggsans-Medium": "https://github.com/system32crowdstrikewin11/Font-for-kettu/releases/download/Bhaia/Monocraft-SemiBold.ttf",
+    "ggsans-Semibold": "https://github.com/system32crowdstrikewin11/Font-for-kettu/releases/download/Bhaia/Monocraft-SemiBold.ttf",
+    "ggsans-Bold": "https://github.com/system32crowdstrikewin11/Font-for-kettu/releases/download/Bhaia/Monocraft-SemiBold.ttf",
+    "ggsans-ExtraBold": "https://github.com/system32crowdstrikewin11/Font-for-kettu/releases/download/Bhaia/Monocraft-SemiBold.ttf"
+  }
+}
